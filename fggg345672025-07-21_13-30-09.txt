@@ -1,0 +1,14 @@
+
+	 	 	 	 	 	 	   Technoproperty Nepal
+	 	 	 	 	 Address: Kamalpokhari Kathmandu Metroplitan
+			 	 Contact: 9801099876 || Email: techonrental@gmail.com
+
+Name of the customer: fggg
+Phone number of the customer:34567
+..............................................................................................................
+	 Kitta No.	 Aana 	 Price per month 	 Rented month 	 Return month 	Total Price 	 Price with fine 
+..............................................................................................................
+	101			4			50000				7				9			350000			360000
+..............................................................................................................
+Thank you for using Techno property service 
+The grand total is:350000
